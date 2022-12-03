@@ -1,4 +1,4 @@
-# Human Resources Data | AI
+# Departamento de Ventas | AI
 
 ### Introducción
 - Para que las empresas se vuelvan competitivas y disparen su crecimiento, necesitan aprovechar la IA / ML para desarrollar modelos predictivos para pronosticar las ventas en el futuro.
